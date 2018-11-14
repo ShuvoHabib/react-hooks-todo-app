@@ -6,7 +6,7 @@ Feature:
 
 Create + Read + Update + Delete
 
-Install:
+## Install:
 
 $  git clone https://github.com/ShuvoHabib/react-hooks-todo-app.git
 
